@@ -1,0 +1,7 @@
+{
+  "diagnostics": true,
+  "module": "none",
+  "alwaysThrow": true,
+  "noResolve": false,
+  "useCache": false
+}
